@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: mlProject
+Version: 0.0.0
+Summary: A small python package for ml app
+Home-page: https://github.com/blackbeardsyed1/End-End-ML
+Author: blackbeardsyed1
+Author-email: syed123khizar@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/blackbeardsyed1/End-End-ML/issues
+Platform: UNKNOWN
+
+# End-End-ML
+
+
+```
+bash 
+conda create -n mlproj pyhton=3.8 -y
+```
+
+``` 
+bash
+conda activate mlproj
+```
+
+```
+bash
+pip install -r requirements.txt
+```
+

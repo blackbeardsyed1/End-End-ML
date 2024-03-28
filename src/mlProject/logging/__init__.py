@@ -19,3 +19,5 @@ logging.basicConfig(
 )
 
 logger = logging.getLogger("mlProjLogger")
+# We can either use this Logging folder or use __init__.py file
+# in the mlProject folder to import logger
